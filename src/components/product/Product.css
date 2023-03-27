@@ -1,0 +1,14 @@
+.product {
+    border: 1px solid rgba(69, 49, 49, 0.324);
+    border-radius: 6px;
+    width: 300px;
+    height: 508px;
+
+}
+
+.product img {
+
+    width: 285px;
+    height: 285px;
+    margin: auto;
+}
