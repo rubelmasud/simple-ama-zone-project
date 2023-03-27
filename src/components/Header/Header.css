@@ -1,0 +1,21 @@
+.header {
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 112px;
+    padding-right: 92px;
+}
+
+nav.header a {
+    text-decoration: none;
+    margin: 0 25px;
+    color: #fff;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav.header a:hover {
+    color: coral;
+}
