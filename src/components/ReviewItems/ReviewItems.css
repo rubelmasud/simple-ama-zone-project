@@ -1,0 +1,62 @@
+.review-items {
+    width: 571px;
+    height: 90px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    padding: 7px;
+    display: flex;
+}
+
+.review-items img {
+    width: 91px;
+    border-radius: 6px;
+}
+
+.cart-Details {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cart-info p {
+    margin: 0px 15px;
+}
+
+.product-name {
+    font-family: 'Lato';
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #1C2B35;
+}
+
+.cart-price {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.0025em;
+    color: #FF9900;
+}
+
+.button-section {
+    width: 25px;
+    height: 25px;
+    margin-right: 40px;
+
+}
+
+.button-section button {
+    background: rgba(235, 87, 87, 0.3);
+    border-radius: 50%;
+    background: #EB57574D;
+
+}
+
+.delete-icon {
+    color: #EB5757;
+    font-size: 27px;
+}

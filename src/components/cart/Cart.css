@@ -4,3 +4,40 @@
     position: sticky;
     top: 0;
 }
+
+.clear-cart-btn {
+    background: #FF3030;
+    align-items: center;
+    width: 90%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+
+}
+
+.btn-proceed {
+    background: #FF9900;
+    align-items: center;
+    width: 90%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    text-decoration: none;
+}
