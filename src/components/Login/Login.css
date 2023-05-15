@@ -1,0 +1,65 @@
+.from-container {
+    margin: 20px auto;
+    width: 500px;
+    height: 600px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    padding-left: 42px;
+    box-shadow: 10px 10px 0px 0px rgb(255, 170, 0);
+
+}
+
+
+
+.from-container label {
+    display: block;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    color: #2A414F;
+    margin-bottom: 10px;
+}
+
+.from-title {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    text-align: center;
+    color: #2A414F;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.form-control input {
+    width: 415px;
+    height: 55px;
+    font-size: 1.5em;
+    padding-left: 10px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+}
+
+.submit-btn {
+    background: rgba(255, 153, 0, 0.3);
+    border-radius: 5px;
+    width: 425px;
+    height: 55px;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    border: none;
+    margin-top: 20px;
+}
+
+.submit-btn:hover {
+    background: rgba(255, 153, 0, 0.799);
+}

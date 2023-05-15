@@ -19,3 +19,13 @@ nav.header a {
 nav.header a:hover {
     color: coral;
 }
+
+.list-items {
+    display: flex;
+    align-items: center;
+}
+
+.user {
+    color: white;
+    padding-right: 10px;
+}
